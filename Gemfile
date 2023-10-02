@@ -20,6 +20,16 @@ group :jekyll_plugins do
     gem 'mini_racer'
     gem 'unicode_utils'
     gem 'webrick'
+    gem 'rouge'
+    gem 'mini_mime'
+    gem 'sass-embedded'
+    gem 'unicode-display_width'
+    gem 'execjs'
+    gem 'activesupport'
+    gem 'minitest'
+    gem 'ffi'
+    gem 'addressable'
+    
 end
 group :other_plugins do
     gem 'feedjira'

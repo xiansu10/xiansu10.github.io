@@ -32,3 +32,7 @@
 "Planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+    
+"Li":
+  - firstname: ["Jun", "J."]
+    url: https://phantom.cs.qc.cuny.edu/li/ 
