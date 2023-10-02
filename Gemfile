@@ -29,6 +29,7 @@ group :jekyll_plugins do
     gem 'minitest'
     gem 'ffi'
     gem 'addressable'
+#   gem 'wdm'
     
 end
 group :other_plugins do
