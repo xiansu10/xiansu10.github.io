@@ -18,3 +18,6 @@
 12.显示底部的social icon的选项是在about.md里
 
 13. `git fetch origin gh-pages:gh-pages` 这个命令的作用是从远程仓库（通常是名为 "origin" 的默认远程仓库）获取 `gh-pages` 分支的最新信息，并将其存储为本地的 `gh-pages` 分支
+14. `<div style="text-align: justify; word-wrap: break-word;">`文本`</div>`可以让文本左右对齐
+
+15.
