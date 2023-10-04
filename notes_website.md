@@ -13,3 +13,6 @@
     1. Open _pages/repositories.md
     2. change `nav: true` to `nav:false`
 
+11.about_einstein.md是用来显示在people中的, about.md中的才是显示在主页的
+
+12.显示底部的social icon的选项是在about.md里

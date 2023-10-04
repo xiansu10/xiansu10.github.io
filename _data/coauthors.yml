@@ -36,3 +36,7 @@
 "Li":
   - firstname: ["Jun", "J."]
     url: https://phantom.cs.qc.cuny.edu/li/ 
+
+"Soto":
+  - firstname: ["Pedro", "Pedro Juan", "P.", "P. J."]
+    url: https://pedrojuansoto.github.io/
