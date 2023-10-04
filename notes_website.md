@@ -16,3 +16,5 @@
 11.about_einstein.md是用来显示在people中的, about.md中的才是显示在主页的
 
 12.显示底部的social icon的选项是在about.md里
+
+13. `git fetch origin gh-pages:gh-pages` 这个命令的作用是从远程仓库（通常是名为 "origin" 的默认远程仓库）获取 `gh-pages` 分支的最新信息，并将其存储为本地的 `gh-pages` 分支
