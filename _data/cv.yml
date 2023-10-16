@@ -12,8 +12,8 @@
   type: time_table
   contents:
     - title: PhD Candidate
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Graduate Center, City University of New York
+      year: 2020-pressent
       description:
         - Description 1.
         - Description 2.
@@ -21,9 +21,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Graduate Student
+      institution: Florida International University
+      year: 2018-2020
       description:
         - Description 1.
         - Description 2.
